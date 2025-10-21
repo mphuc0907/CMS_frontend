@@ -27,7 +27,7 @@
 
       <ul
         v-show="open"
-        class="pc-menu__user-dropdown absolute right-0 mt-2 w-44 bg-white shadow-lg rounded-md py-1 z-50"
+        class="pc-menu__user-dropdown absolute right-0 mt-2 w-40 bg-white shadow-lg rounded-md py-1 z-50"
         role="menu"
         aria-label="User menu"
       >
