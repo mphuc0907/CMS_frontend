@@ -1,5 +1,5 @@
 <template>
-    <div class="logo p-2 rounded-md">
+    <div class="logo rounded-md">
         <div class="pc-menu__left">
             <router-link to="/" class="pc-menu__logo">
                 <div class="image">
